@@ -54,7 +54,7 @@ flutter run
 
 | **HeyCloudy Screen** |
 |------------------|
-| ![home_screen]![hey_cloudy_screen](https://github.com/user-attachments/assets/6c7af38b-9857-40b9-b8ca-b9093c453952) |
+| ![hey_cloudy_screen](https://github.com/user-attachments/assets/6c7af38b-9857-40b9-b8ca-b9093c453952) |
 
 
 
